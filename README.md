@@ -27,11 +27,8 @@ Dataset URL: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 │   └── param_importances.png
 ├── presentation/
 │   └── optuna_walkthrough.md     # contains YouTube video link
-├── docs/
-│   └── notes.md
 ├── data_sources.txt
 ├── requirements.txt
-├── .gitignore
 └── LICENSE
 ```
 
